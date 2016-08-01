@@ -26,6 +26,6 @@ cacheSolve <- function(x, ...) {
         x$setMatrix(m)
         m
 }
-
+#write inversion matrix
 solve(x)
 
